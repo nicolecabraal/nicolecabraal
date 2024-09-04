@@ -17,12 +17,6 @@
  
 ### Para entrar em contato comigo clique nos botões abaixo!
 
- <style>
-  a:hover .gmail-icon {
-    background-color: red;
-    color:white;
-  }
-</style>
 
 <div>  
   <a href = "mailto:nscnick22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
